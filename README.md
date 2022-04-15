@@ -1,5 +1,5 @@
-# awsome-cheatseehts
-Collections for  cheat sheets
+# awsome-cheatsheets
+Collections for cheat sheets
 
 ## Editor
 [Vim cheatsheet](https://devhints.io/vim)
